@@ -1,6 +1,5 @@
-import InstallationImage from '/public/trainingImg1.jpg'; // Import the service image
+import InstallationImage from '/public/trainingimg1.jpg'; 
 import Hero from "@/components/Hero";
-import Image from "next/image";
 import Link from "next/link"; 
 
 export default function Training() {
