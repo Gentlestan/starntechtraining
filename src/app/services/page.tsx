@@ -1,4 +1,4 @@
-import InstallationImage from "/public/trainingImg.jpg"; // Import the service image
+import InstallationImage from '/public/trainingImg.jpg'; // Import the service image
 import Hero from "@/components/Hero";
 import Image from "next/image";
 import Link from "next/link"; 
