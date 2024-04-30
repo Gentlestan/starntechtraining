@@ -8,10 +8,10 @@ export default function Services() {
             <Hero
                 imgData={InstallationImage}
                 imgAlt='solar Installation'
-                title="Your investment deserves expertise. 
+                title='Your investment deserves expertise. 
                 Trust us to guide and execute your professional 
                 installations. From solar to CCTV, fire alarms, 
-                and smart Home amplifiers, we've got you covered"/>
+                and smart Home amplifiers, we"ve got you covered'/>
             <h1 className="text-2xl md:text-3xl xl:text-4xl text-center mt-4 font-bold">Our Services</h1>
             <div>
                 <div>
@@ -94,7 +94,7 @@ export default function Services() {
                     <h1 className="text-3xl text-center md:text-left md:ml-48 xl:ml-48 mt-4">Conventional Fire-Alarm System Installation</h1>
                 </div>
                 <div className="flex">
-                <div className=" text-center flex flex-col xl:flex-row items-start">
+                <div className="text-center flex flex-col xl:flex-row items-start">
                     <Image 
                         src="/fire-panel.jpeg" 
                         alt="training image"
