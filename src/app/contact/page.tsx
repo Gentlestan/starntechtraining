@@ -2,7 +2,7 @@
   export default function Contact() {
     return (
       <div className="flex justify-center items-center h-screen">
-        <form name="contact" action="/" method="POST" data-netlify="true" className="text-2xl px-2">
+        <form name="contact" action="/contact/success" method="POST" data-netlify="true" className="text-2xl px-2">
         <input type="hidden" name="form-name" value="contact"  />
           <div>
             <div>
