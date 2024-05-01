@@ -40,7 +40,7 @@ export const Navbar = () => {
     
     return (
         <nav className="bg-gray-800 text-white p-4 sm:p-6 md:flex md:justify-between">
-            <div className="flex justify-between items-center w-full xl:mx-48">
+            <div className="flex justify-between items-center w-full xl:mx-16">
                 <a href="/" className="text-2xl font-bold">
                     Stantechs
                 </a>
