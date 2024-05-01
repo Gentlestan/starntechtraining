@@ -2,14 +2,14 @@
   export default function Contact() {
     return (
       <div className="flex justify-center items-center h-screen">
-        <form name="contact" method="POST" className="text-2xl px-2">
+        <form name="contact" action="/" method="POST" data-netlify="true" className="text-2xl px-2">
+        <input type="hidden" name="form-name" value="contact"  />
           <div>
             <div>
               <p className="text-2xl">Have questions or want to get in touch?</p>
               <p className="mb-4 text-2xl">Fill out the form below and we'll get back to you as soon as possible.</p>
             </div>
           </div>
-          <input type="hidden" name="form-name" value="contact"  />
           <p>
             <label htmlFor="yourname">Your Name:</label> <br />
             <input type="text" name="name" id="yourname" className="bg-blue-200 p-2 rounded-md w-full mb-2" />
