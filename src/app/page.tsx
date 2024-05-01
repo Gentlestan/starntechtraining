@@ -19,28 +19,28 @@ export default function Home() {
         alt="training image"
         width={500}
         height={500}
-        className="ml-48 hidden xl:block"
+        className="hidden md:block xl:block md:ml-8 xl:ml-8"
 
         />
         <div className="ml-4">
-        <h1 className="text-4xl">Why Work with us </h1>
-        <ul className="list-disc list-inside text-2xl text-start xl:text-3xl py-2">
-        <li className="py-2">Provide hands on training classes with Professional Instructors    
+        <h1 className="ml:16 md:text-3xl xl:text-3xl">Why Work with us </h1>
+        <ul className="list-disc list-inside  text-start py-2">
+        <li className="py-1.5">Provide hands on training classes with Professional Instructors    
         </li>
-        <li className="py-2">Access your loads and provide accurate system design based on 
+        <li className="py-1.5">Access your loads and provide accurate system design based on 
           energy demand or load requirements
           </li>
-          <li className="py-2">
+          <li className="py-1.5">
           Expert sales consultations to help you choose the right technologies
            for your needs
           </li>
-          <li className="py-2">
+          <li className="py-1.5">
           Dedicated customer support team available to address any questions or concerns
           </li>
-          <li className="py-2">
+          <li className="py-1.5">
           Professional installation services for hassle-free setup and implementation 
           </li>
-          <li className="py-2">
+          <li className="py-1.5">
           Ongoing maintenance and support to keep your systems running smoothly. 
           </li>
         </ul>

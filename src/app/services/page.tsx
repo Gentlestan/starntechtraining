@@ -15,17 +15,17 @@ export default function Services() {
             <h1 className="text-2xl md:text-3xl xl:text-4xl text-center mt-4 font-bold">Our Services</h1>
             <div>
                 <div>
-                    <h1 className="text-3xl text-center md:text-left md:ml-48 xl:ml-48 mt-4">Renewable Energy/Solar system Installation</h1>
+                    <h1 className="text-2xl text-center md:text-left md:ml-8 xl:ml-8 mt-4">Renewable Energy/Solar system Installation</h1>
                 </div>
-                    <div className="text-center flex items-start justify-start mt-16 flex-col  md:flex-col xl:flex-row mb-8">
+                    <div className="text-center md:flex md:items-start md:justify-start mt-16 flex-col md:flex-row mb-8">
                     <Image 
                         src="/inverter-1.jpeg" 
                         alt="training image"
-                        width={500}
-                        height={400}
+                        width={300}
+                        height={300}
                         objectFit="cover"
-                        className=" mx-auto md:ml-48 xl:ml-48 xl:block"/>
-                        <ul className="list-disc list-inside text-2xl text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
+                        className=" mx-auto md:ml-8 xl:ml-8 xl:block"/>
+                        <ul className="list-disc list-inside  text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
                             <li className="py-2">Complete nationwide installation of solar systems and inverters, covering solar panels,
                             inverters, batteries, and more.    
                             </li>
@@ -51,19 +51,19 @@ export default function Services() {
                         </ul> 
                     </div>
                     <div>
-                    <h1 className="text-3xl text-center md:text-left md:ml-48 xl:ml-48 mb-8">Security/CCTV system Installation</h1>
+                    <h1 className="text-2xl text-center md:text-left md:ml-8 xl:ml-8">Security/CCTV system Installation</h1>
                 </div>
                 <div className="flex">
-                <div className=" text-center flex flex-col xl:flex-row items-start mb-8">
+                <div className=" text-center md:flex md:items-start md:justify-start mt-16 flex-col md:flex-row mb-8">
                     <Image 
                         src="/installation-cctv3.avif" 
                         alt="training image"
-                        width={500}
-                        height={400}
+                        width={300}
+                        height={300}
                         objectFit="cover"
-                        className="mx-auto md:ml-48 xl:ml-48 xl:block"/>
+                        className="mx-auto md:ml-8 xl:ml-8 xl:block"/>
 
-                        <ul className="list-disc list-inside text-2xl text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
+                        <ul className="list-disc list-inside text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
                     
                         <li className="py-2">
                         Comprehensive CCTV installation services for residential and commercial properties
@@ -91,19 +91,19 @@ export default function Services() {
                 </div>
 
                 <div>
-                    <h1 className="text-3xl text-center md:text-left md:ml-48 xl:ml-48 mt-4">Conventional Fire-Alarm System Installation</h1>
+                    <h1 className="text-2xl text-center md:text-left md:ml-8 xl:ml-8 mt-4">Conventional Fire-Alarm System Installation</h1>
                 </div>
                 <div className="flex">
-                <div className="text-center flex flex-col xl:flex-row items-start">
+                <div className="text-center md:flex md:items-start md:justify-start mt-16 flex-col md:flex-row mb-8">
                     <Image 
                         src="/fire-panel.jpeg" 
                         alt="training image"
-                        width={500}
-                        height={400}
+                        width={300}
+                        height={300}
                         objectFit="cover"
-                        className="mx-auto md:ml-48 xl:ml-48 xl:block"/>
+                        className="mx-auto md:ml-8 xl:ml-8 xl:block"/>
 
-                        <ul className="list-disc list-inside text-2xl text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
+                        <ul className="list-disc list-inside text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
                     
                         <li className="py-2">
                         Professional fire alarm installation services for both residential and commercial properties
@@ -133,19 +133,19 @@ export default function Services() {
              </div>
 
                <div>
-                    <h1 className="text-3xl text-center md:text-left md:ml-48 xl:ml-48 mt-4">Smart wall Amplifiers/ceiling Speakers Installation</h1>
+                    <h1 className="text-2xl text-center md:text-left md:ml-8 xl:ml-8 mt-4">Smart wall Amplifiers/ceiling Speakers Installation</h1>
                 </div>
                 <div className="flex">
-                <div className=" text-center flex flex-col xl:flex-row items-start">
+                <div className="text-center md:flex md:items-start md:justify-start mt-16 flex-col md:flex-row mb-8">
                     <Image 
                         src="/amplifiers.jpeg" 
                         alt="training image"
-                        width={500}
-                        height={400}
+                        width={300}
+                        height={300}
                         objectFit="cover"
-                        className="mx-auto md:ml-48 xl:ml-48 xl:block"/>
+                        className="mx-auto md:ml-8 xl:ml-8 xl:block"/>
 
-                        <ul className="list-disc list-inside text-2xl text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
+                        <ul className="list-disc list-inside text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
                     
                         <li className="py-2">
                         Professional fire alarm installation services for both residential and commercial properties

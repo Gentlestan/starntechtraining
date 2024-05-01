@@ -3,14 +3,14 @@ export default function HtmlCssEssentials() {
     return (
                 <div className="container mx-auto text-center md:text-left px-2 md:ml-16 xl:ml-48">
                 <div className="container mx-auto">    
-                    <h1 className="text-3xl text-center md:text-left mt-4 font-bold">COURSE TITLE</h1>
+                    <h1 className="text-3xl text-center md:text-left mt-4 font-bold text-red-500">COURSE TITLE</h1>
                     <h2 className="text-2xl text-center md:text-left mt-4">HTML & CSS Essentials</h2>
-                    <h1 className="text-3xl text-center md:text-left mt-4 font-bold">COURSE CODE</h1>
+                    <h1 className="text-2xl text-center md:text-left mt-4 font-bold">COURSE CODE</h1>
                     <h2 className="text-2xl text-center md:text-left mt-4">HCS-101</h2>
-                    <h1 className="text-3xl text-center md:text-left mt-4 font-bold">Course Syllables:</h1>
-                    <h1 className="text-3xl text-center md:text-left mt-4 font-bold">Section 1: Introduction to HTML:</h1>
-                    <ul className="list-disc list-inside text-2xl text-start xl:text-2xl py-2 ml-2 ">
-                        <li className="py-2 text-red-500">
+                    <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Course Syllables:</h1>
+                    <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Section 1: Introduction to HTML:</h1>
+                    <ul className="list-disc list-inside text-start xl:text-2xl py-2 ml-2 ">
+                        <li className="py-2">
                          Basics: Intro to HTML Syntax    
                         </li>
                         <li className="py-2">
@@ -20,8 +20,8 @@ export default function HtmlCssEssentials() {
                             Exploring basic HTML tags:
                         </li>
                         </ul>
-                        <ul className="list-disc list-inside text-2xl text-start xl:text-2xl py-2 ml-2 ">
-                        <li className="py-2 text-red-500">
+                        <ul className="list-disc list-inside text-start xl:text-2xl py-2 ml-2 ">
+                        <li className="py-2">
                          Links: Absolute & Relative URLs    
                         </li>
                         <li className="py-2">
@@ -43,15 +43,10 @@ export default function HtmlCssEssentials() {
                         <li className="py-2">
                         Specifying image sources and attributes: src, width, height, alt
                         </li>
-                        <li className="py-2">
-                        <Link href="/training/firealarmtraining" legacyBehavior>
-                            <a className="text-red-500">Click here to see the complete HTML & CSS module</a>
-                        </Link>
-                        </li>
                         </ul>
-                        <h1 className="text-3xl text-center md:text-left mt-4 font-bold">Section 2: Introduction to Cascading Style Sheets (CSS)</h1>
-                        <ul className="list-disc list-inside text-2xl text-start xl:text-2xl py-2 ml-2 ">
-                        <li className="py-2 text-red-500">
+                        <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Section 2: Introduction to Cascading Style Sheets (CSS)</h1>
+                        <ul className="list-disc list-inside text-start xl:text-2xl py-2 ml-2 ">
+                        <li className="py-2">
                         Basics of CSS    
                         </li>
                         <li className="py-2">
@@ -70,8 +65,8 @@ export default function HtmlCssEssentials() {
                         Understanding hexadecimal color codes
                         </li>
                         </ul>
-                        <ul className="list-disc list-inside text-2xl text-start xl:text-2xl py-2 ml-2 ">
-                        <li className="py-2 text-red-500">
+                        <ul className="list-disc list-inside text-start xl:text-2xl py-2 ml-2 ">
+                        <li className="py-2">
                         CSS Class Selectors    
                         </li>
                         <li className="py-2">
@@ -86,15 +81,10 @@ export default function HtmlCssEssentials() {
                         <li className="py-2">
                         Controlling opacity with CSS
                         </li>
-                        <li className="py-2">
-                        <Link href="/training/firealarmtraining" legacyBehavior>
-                            <a className="text-red-500">Click here to see the complete HTML & CSS module</a>
-                        </Link>
-                        </li>
                         </ul>
-                        <h1 className="text-3xl text-center md:text-left mt-4 font-bold">Section 3: Browser Developer Tools & HTML5 Semantic Elements</h1>
-                        <ul className="list-disc list-inside text-2xl text-start xl:text-2xl py-2 ml-2 ">
-                        <li className="py-2 text-red-500">
+                        <h1 className="text-center md:text-left mt-4 font-bold">Section 3: Browser Developer Tools & HTML5 Semantic Elements</h1>
+                        <ul className="list-disc list-inside text-start py-2 ml-2 ">
+                        <li className="py-2">
                         Using Browser Developer Tools    
                         </li>
                         <li className="py-2">
@@ -107,8 +97,8 @@ export default function HtmlCssEssentials() {
                         Fine-tuning CSS styles using DevTools
                         </li>
                         </ul>
-                        <ul className="list-disc list-inside text-2xl text-start xl:text-2xl py-2 ml-2 ">
-                        <li className="py-2 text-red-500">
+                        <ul className="list-disc list-inside text-start xl:text-2xl py-2 ml-2 ">
+                        <li className="py-2">
                         HTML5 Semantic Elements & Validating HTML    
                         </li>
                         <li className="py-2">
@@ -121,9 +111,9 @@ export default function HtmlCssEssentials() {
                         Validating HTML code for errors and compliance with standards
                         </li>
                         </ul>
-                        <h1 className="text-3xl text-center md:text-left mt-4 font-bold">Section 4: Flexbox and Grid Layout</h1>
-                        <ul className="list-disc list-inside text-2xl text-start xl:text-2xl py-2 ml-2 ">
-                        <li className="py-2 text-red-500">
+                        <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Section 4: Flexbox and Grid Layout</h1>
+                        <ul className="list-disc list-inside text-start xl:text-2xl py-2 ml-2 ">
+                        <li className="py-2">
                         Introduction to Flexbox    
                         </li>
                         <li className="py-2">
@@ -139,8 +129,8 @@ export default function HtmlCssEssentials() {
                         Flexbox layout examples
                         </li>
                         </ul>
-                        <ul className="list-disc list-inside text-2xl text-start xl:text-2xl py-2 ml-2 ">
-                        <li className="py-2 text-red-500">
+                        <ul className="list-disc list-inside text-start py-2 ml-2 ">
+                        <li className="py-2">
                         Introduction to CSS Grid Layout    
                         </li>
                         <li className="py-2">

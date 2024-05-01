@@ -5,8 +5,8 @@ import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 const Footer = () => {
     return (
         <footer className="bg-gray-800 text-white py-8 mt-8">
-            <div className="container mx-auto flex justify-between items-center">
-                <div>
+            <div className="flex justify-between items-center w-full">
+                <div className="ml-8">
                     <h2 className="text-2xl font-bold">Connect with Us</h2>
                     <div className="flex space-x-4 mt-4">
                         <Link href="https://facebook.com" legacyBehavior>
@@ -20,7 +20,7 @@ const Footer = () => {
                         </Link>
                     </div>
                 </div>
-                <div>
+                <div className="mr-8">
                     <p>&copy; {new Date().getFullYear()} Stantechs. All rights reserved.</p>
                 </div>
             </div>
