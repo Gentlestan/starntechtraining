@@ -25,7 +25,7 @@ export default function Services() {
                         height={300}
                         objectFit="cover"
                         className=" mx-auto md:ml-8 xl:ml-8 xl:block"/>
-                        <ul className="list-disc list-inside  text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
+                        <ul className="list-disc list-inside  text-start py-2 ml-2 md:ml-8 xl:ml-8">
                             <li className="py-2">Complete nationwide installation of solar systems and inverters, covering solar panels,
                             inverters, batteries, and more.    
                             </li>
@@ -63,7 +63,7 @@ export default function Services() {
                         objectFit="cover"
                         className="mx-auto md:ml-8 xl:ml-8 xl:block"/>
 
-                        <ul className="list-disc list-inside text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
+                        <ul className="list-disc list-inside text-start py-2 ml-2 md:ml-8 xl:ml-8">
                     
                         <li className="py-2">
                         Comprehensive CCTV installation services for residential and commercial properties
@@ -103,7 +103,7 @@ export default function Services() {
                         objectFit="cover"
                         className="mx-auto md:ml-8 xl:ml-8 xl:block"/>
 
-                        <ul className="list-disc list-inside text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
+                        <ul className="list-disc list-inside text-start py-2 ml-2 md:ml-8 xl:ml-8">
                     
                         <li className="py-2">
                         Professional fire alarm installation services for both residential and commercial properties
@@ -145,7 +145,7 @@ export default function Services() {
                         objectFit="cover"
                         className="mx-auto md:ml-8 xl:ml-8 xl:block"/>
 
-                        <ul className="list-disc list-inside text-start xl:text-3xl py-2 ml-2 md:ml-8 xl:ml-8">
+                        <ul className="list-disc list-inside text-start py-2 ml-2 md:ml-8 xl:ml-8">
                     
                         <li className="py-2">
                         Professional fire alarm installation services for both residential and commercial properties
