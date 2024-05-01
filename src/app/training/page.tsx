@@ -41,7 +41,7 @@ export default function Training() {
                             </ul>
                         </div>
                         <div>
-                            <h1 className="text-3xl text-center md:text-left mt-4 font-bold">COURSE TITLE</h1>
+                            <h1 className="text-2xl text-center md:text-left mt-4 font-bold">COURSE TITLE</h1>
                             <h2 className="text-2xl text-center md:text-left mt-4">CCTV Training and Installation</h2>
                             <h1 className="text-2xl text-center md:text-left mt-4 font-bold">COURSE CODE</h1>
                             <h2 className="text-2xl text-center md:text-left mt-4">CCTV-101</h2>
@@ -65,7 +65,7 @@ export default function Training() {
                             </ul>
                         </div>
                         <div>
-                            <h1 className="text-3xl text-center md:text-left mt-4 font-bold">COURSE TITLE</h1>
+                            <h1 className="text-2xl text-center md:text-left mt-4 font-bold">COURSE TITLE</h1>
                             <h2 className="text-2xl text-center md:text-left mt-4">Conventional Fire Alarm Installation Training</h2>
                             <h1 className="text-2xl text-center md:text-left mt-4 font-bold">COURSE CODE</h1>
                             <h2 className="text-2xl text-center md:text-left mt-4">CFAT-101</h2>
@@ -89,7 +89,7 @@ export default function Training() {
                             </ul>
                         </div>
                         <div>
-                            <h1 className="text-3xl text-center md:text-left mt-4 font-bold">COURSE TITLE</h1>
+                            <h1 className="text-2xl text-center md:text-left mt-4 font-bold">COURSE TITLE</h1>
                             <h2 className="text-2xl text-center md:text-left mt-4">HTML & CSS Essentials</h2>
                             <h1 className="text-2xl text-center md:text-left mt-4 font-bold">COURSE CODE</h1>
                             <h2 className="text-2xl text-center md:text-left mt-4">HCS-101</h2>
