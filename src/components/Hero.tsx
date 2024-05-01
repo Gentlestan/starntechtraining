@@ -21,8 +21,8 @@ export default function Hero(props: HeroProps) {
                 <div className="absolute inset-0 bg-gradient-to-r from-slate-900"></div>
             </div>
             <div className="absolute inset-0 flex justify-center items-center">
-                <div className="text-center md:max-w-[70%] xl:max-w-[60%] px-6]">
-                    <h1 className="text-white text-3xl md:text-4xl xl:text-4xl leading-[4rem] md:leading-[4.5rem] xl:leading-[5.5rem]">{props.title}</h1>
+                <div className="text-center md:max-w-[80%] xl:max-w-[80%] px-6]">
+                    <h1 className="text-white md:text-2xl xl:text-2xl  md:leading-[2.5rem] xl:leading-[3.5rem]">{props.title}</h1>
                 </div>
             </div>
         </div>
