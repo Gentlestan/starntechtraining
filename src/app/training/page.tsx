@@ -23,7 +23,7 @@ export default function Training() {
                         <h2 className="text-2xl text-center md:text-left mt-4">RESI-101</h2>
                         <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Course Modules:</h1>
                         <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Introduction to Renewable Energy:</h1>
-                        <ul className="list-disc list-inside text-start xl:text-2xl py-2 ml-2 ">
+                        <ul className="list-disc list-inside text-start py-2 ml-2 ">
                                 <li className="py-2">
                                 Overview of renewable energy sources    
                                 </li>
@@ -47,7 +47,7 @@ export default function Training() {
                             <h2 className="text-2xl text-center md:text-left mt-4">CCTV-101</h2>
                             <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Course Modules:</h1>
                             <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Introduction to CCTV Systems:</h1>
-                            <ul className="list-disc list-inside text-start xl:text-2xl py-2 ml-2 ">
+                            <ul className="list-disc list-inside text-start py-2 ml-2 ">
                                 <li className="py-2">
                                 Overview of closed-circuit television (CCTV)    
                                 </li>
@@ -71,7 +71,7 @@ export default function Training() {
                             <h2 className="text-2xl text-center md:text-left mt-4">CFAT-101</h2>
                             <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Course Modules:</h1>
                             <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Introduction to Fire Alarm Systems:</h1>
-                            <ul className="list-disc list-inside text-start xl:text-2xl py-2 ml-2 ">
+                            <ul className="list-disc list-inside text-start py-2 ml-2 ">
                                 <li className="py-2">
                                 Overview of fire alarm systems    
                                 </li>
@@ -95,7 +95,7 @@ export default function Training() {
                             <h2 className="text-2xl text-center md:text-left mt-4">HCS-101</h2>
                             <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Course Syllables:</h1>
                             <h1 className="text-2xl text-center md:text-left mt-4 font-bold">Introduction to HTML:</h1>
-                            <ul className="list-disc list-inside  text-start xl:text-2xl py-2 ml-2 ">
+                            <ul className="list-disc list-inside  text-start py-2 ml-2 ">
                                 <li className="py-2">
                                 Coding Basics: Intro to HTML Syntax    
                                 </li>
