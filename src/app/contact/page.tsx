@@ -23,7 +23,7 @@
             <textarea name="message" id="yourmessage" className="w-2/3 h-48 bg-gray-600 p-2 rounded-md text-white mb-2"></textarea>
           </p>
           <p>
-            <button type="submit" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Send</button>
+            <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Send</button>
           </p>
         </form>
       </div>
