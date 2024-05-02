@@ -6,7 +6,7 @@
         <input type="hidden" name="form-name" value="contact"  />
           <div>
             <div>
-              <p className="text-2xl">Have questions or want to get in touch?</p>
+              <p className="text-2xl">Have questions about our training or want to schedule a solar, CCTV, or fire alarm installation at your premise?</p>
               <p className="mb-4 text-2xl">Fill out the form below and we'll get back to you as soon as possible.</p>
             </div>
           </div>
