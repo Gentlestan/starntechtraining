@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="ml-8">
                     <h2 className="text-2xl font-bold">Connect with Us</h2>
                     <div className="flex space-x-4 mt-4">
-                        <Link href="https://facebook.com" legacyBehavior>
+                        <Link href="https://web.facebook.com/realstarntech" legacyBehavior>
                             <a target="_blank" rel="noopener noreferrer" ><FaFacebook size={24} /></a>
                         </Link>
                         <Link href="https://twitter.com" legacyBehavior>
